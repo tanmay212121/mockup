@@ -1,0 +1,20 @@
+.divLine{
+    min-width: 200px;
+    min-height: 1px;
+    background-color: black;
+}
+
+.line{
+    width: 50px;
+    height: 2px;
+    background-color: black;
+    margin: 20px 0px;
+}
+
+p{
+    display: inline;
+}
+
+.space{
+    margin-bottom: 3px;
+}
